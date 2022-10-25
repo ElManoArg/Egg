@@ -1,2 +1,0 @@
-# Egg
-Curso Full Stack
